@@ -1,1 +1,1 @@
-# Kailf Linux Repository.
+# Kailf Linux software Repository.
